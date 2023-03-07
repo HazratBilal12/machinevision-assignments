@@ -1,2 +1,2 @@
 # machinevision-assignments
-Matlab implementation of assignments for Machine Vision (EEE-584) course at METU NCC
+Matlab implementation of Machine Vision (EEE-584) course assignments at METU NCC
